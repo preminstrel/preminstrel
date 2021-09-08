@@ -12,9 +12,7 @@
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=preminstrel&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true" />
 
 <details> 
-  <summary>
-      <strong>Useful Links 📫 友情链接</strong>
-  </summary>
+<strong>Useful Links 📫 友情链接</strong>
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
 * [Personal CV ](https://hollowman6.github.io/CV/?language=en)⚡[ 个人简历](https://hollowman6.github.io/CV/?language=cn) 
