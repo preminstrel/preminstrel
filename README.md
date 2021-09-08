@@ -1,7 +1,10 @@
 <h3 align="center">Hi, and WELCOME <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/> </h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
+ <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white" />
 </p>
+
+
 - 👋 Hi, I’m @preminstrel
 - 👀 I’m interested in CV
 - 🌱 I’m currently learning in SEU
