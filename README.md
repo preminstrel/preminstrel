@@ -19,4 +19,6 @@
 * [My Blog](https://shsshs.cn/) 
 
 
-<h3 align="center">Thanks for visiting my Github :-) Wish you have a good time here! 🎉 Please continue your visit ↓</h3>
+<h3 align="center">Thanks for visiting my Github :-)<h3> 
+<h3 align="center">Wish you have a good time here! 🎉 <h3> 
+<h3 align="center">Please continue your visit ↓</h3>
