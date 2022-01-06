@@ -16,7 +16,7 @@
 
 <strong>Useful Links 📫</strong>
 * [Personal CV ](https://github.com/preminstrel/preminstrel/blob/main/CV.pdf)
-* [My Blog](http://shsshs.cn/) 
+* [My Blog](https://preminstrel.github.io/about/) 
 
 
 <h3 align="center">Thanks for visiting my Github :-)<h3> 
