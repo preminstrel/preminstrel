@@ -46,7 +46,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=preminstrel&theme=rogue&hide_title=true"/>
 </details>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=preminstrel)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=preminstrel)](https://github.com/preminstrel)
 
 
 <strong>Useful Links 📫</strong>
