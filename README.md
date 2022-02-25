@@ -52,8 +52,3 @@
 <strong>Useful Links 📫</strong>
 * [Personal CV ](https://github.com/preminstrel/preminstrel/blob/main/CV.pdf)
 * [My Blog](https://preminstrel.github.io/about/) 
-
-
-<h3 align="center">Thanks for visiting my Github :-)<h3> 
-<h3 align="center">Wish you have a good time here! 🎉 <h3> 
-<h3 align="center">Please continue your visit ↓</h3>
