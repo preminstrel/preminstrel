@@ -9,9 +9,6 @@
 <a href="https://github.com/preminstrel">
  <img src="https://badges.pufler.dev/repos/preminstrel?style=flat-square&color=blue&logo=github">
 </a>
-<a href="https://github.com/preminstrel">
- <img src="https://badges.pufler.dev/commits/monthly/preminstrel?style=flat-square&color=blue&logo=github">
-</a>
 </p>
 
 🌱 Currently I'm a 2019 undergraduate majoring in **Electronic Science and Technology** at ***[Southeast University](https://www.seu.edu.cn/), 🇨🇳***. 
