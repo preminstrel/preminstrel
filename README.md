@@ -12,6 +12,23 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preminstrel&layout=compact&bg_color=22272E&text_color=CDD9E5&langs_count=10&hide_border=true" width="330px"/>
 
+<p>
+</br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
+<img alt="C++" src="https://img.shields.io/badge/-CSharp-525288?style=flat-square&logo=csharp&logoColor=white" />
+<img alt="python" src="https://img.shields.io/badge/-python-74787a?style=flat-square&logo=python&logoColor=white" />
+<img alt="html" src="https://img.shields.io/badge/-html-d2d97a?style=flat-square&logo=html5&logoColor=white" />
+
+<img alt="git" src="https://img.shields.io/badge/-git-5c2223?style=flat-square&logo=git&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/-github-d13c74?style=flat-square&logo=github&logoColor=white" />
+<img alt="Windows Terminal" src="https://img.shields.io/badge/-terminal-36292f?style=flat-square&logo=Windows Terminal&logoColor=white" />
+
+<img alt="linux" src="https://img.shields.io/badge/-Linux-8076a3?style=flat-square&logo=linux&logoColor=white" />
+<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-b7ae8f?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
+<img alt="Unity" src="https://img.shields.io/badge/-Unity-2983bb?style=flat-square&logo=Unity&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-0f95b0?style=flat-square&logo=Nginx&logoColor=white" />
+</p>
+
 
 <details><summary>More GitHub Info</summary>
 <img src="https://metrics.lecoq.io/preminstrel?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FShanghai"/>
