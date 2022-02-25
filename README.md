@@ -1,7 +1,17 @@
-<h3 align="center">Hi, and Welcome <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/> </h3>
+<h3 align="center">Hi, and Welcome.</h3>
 <p align="center">
+<a href="https://github.com/preminstrel">
 <img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
- <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white" />
+</a>
+<a href="https://github.com/preminstrel">
+ <img src="https://badges.pufler.dev/years/preminstrel?style=flat-square&color=blue&logo=github">
+</a>
+<a href="https://github.com/preminstrel">
+ <img src="https://badges.pufler.dev/repos/preminstrel?style=flat-square&color=blue&logo=github">
+</a>
+<a href="https://github.com/preminstrel">
+ <img src="https://badges.pufler.dev/commits/monthly/preminstrel?style=flat-square&color=blue&logo=github">
+</a>
 </p>
 
 🌱 Currently I'm a 2019 undergraduate majoring in **Electronic Science and Technology** at ***[Southeast University](https://www.seu.edu.cn/), 🇨🇳***. 
@@ -16,6 +26,7 @@
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
 <img alt="C++" src="https://img.shields.io/badge/-C++-525288?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-74787a?style=flat-square&logo=python&logoColor=white" />
+<img alt="java" src="https://img.shields.io/badge/-java-2e317c?style=flat-square&logo=java&logoColor=white" />
 <img alt="html" src="https://img.shields.io/badge/-html-d2d97a?style=flat-square&logo=html5&logoColor=white" />
 
 <img alt="git" src="https://img.shields.io/badge/-Git-5c2223?style=flat-square&logo=git&logoColor=white" />
@@ -35,6 +46,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=preminstrel&theme=rogue&hide_title=true"/>
 </details>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=preminstrel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <strong>Useful Links 📫</strong>
