@@ -46,6 +46,8 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=preminstrel&theme=green&hide_title=false"/>
 </details>
 
+<strong>My Weekly Coding Activity</strong>
+
 <img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Preminstrel WakaTime Activity"/>
 
 
