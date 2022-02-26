@@ -1,4 +1,4 @@
-<h3 align="center">Hi, and Welcome.</h3>
+<img src="https://github.com/preminstrel/preminstrel/blob/main/images/preminstrel.png">
 <p align="center">
 <a href="https://github.com/preminstrel">
 <img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
