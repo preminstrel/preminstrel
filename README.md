@@ -43,8 +43,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=preminstrel&theme=rogue&hide_title=true"/>
 </details>
 
-<img src="https://github.com/preminstrel/preminstrel/blob/master/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 
 <strong>Useful Links 📫</strong>
