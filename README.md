@@ -43,10 +43,10 @@
 <details><summary>More GitHub Info</summary>
 <img src="https://metrics.lecoq.io/preminstrel?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FShanghai"/>
 </br>
-<img src="https://activity-graph.herokuapp.com/graph?username=preminstrel&theme=rogue&hide_title=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=preminstrel&theme=green&hide_title=false"/>
 </details>
 
-<img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Preminstrel WakaTime Activity"/>
 
 
 <strong>Useful Links 📫</strong>
