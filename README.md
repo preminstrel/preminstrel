@@ -41,9 +41,7 @@
 
 
 <details><summary>More GitHub Info</summary>
-<img src="https://metrics.lecoq.io/preminstrel?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FShanghai"/>
-</br>
-<img src="https://activity-graph.herokuapp.com/graph?username=preminstrel&theme=green&hide_title=false"/>
+![Metrics](https://github.com/preminstrel/preminstrel/blob/main/github-metrics.svg)
 </details>
 
 <strong>My Weekly Coding Activity</strong>
