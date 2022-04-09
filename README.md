@@ -41,7 +41,7 @@
 
 
 <details><summary>More GitHub Info</summary>
-![Metrics](https://github.com/preminstrel/preminstrel/blob/main/github-metrics.svg)
+ <img src="https://github.com/preminstrel/preminstrel/blob/main/github-metrics.svg" alt="Metrics"/>
 </details>
 
 <strong>My Weekly Coding Activity</strong>
