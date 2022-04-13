@@ -12,6 +12,14 @@
  <a href="mailto:preminstrel@gmail.com">
  <img src="https://img.shields.io/badge/-preminstrel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preminstrel@gmail.com">
 </a>
+ <a>
+  <a href="https://github.com/preminstrel">
+ <img src="https://img.shields.io/badge/-SW825143601640-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=FFFFFF">
+</a>
+ <a>
+  <a href="https://steamcommunity.com/id/preminstrel/">
+ <img src="https://img.shields.io/badge/@preminstrel-1DA1F2?style=flat-square&logo=Steam&logoColor=black" alt="steam"/>
+  </a>
 </p>
 
 🌱 Currently I'm a 2019 undergraduate majoring in **Electronic Science and Technology** at ***[Southeast University](https://www.seu.edu.cn/), 🇨🇳***. 
