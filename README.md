@@ -59,4 +59,4 @@
 
 <strong>Useful Links 📫</strong>
 * [Personal CV ](https://github.com/preminstrel/preminstrel/blob/main/CV.pdf)
-* [My Blog](https://preminstrel.github.io) 
+* [My Blog](https://preminstrel.github.io/blog/) 
