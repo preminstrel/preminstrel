@@ -13,6 +13,9 @@
  <img src="https://img.shields.io/badge/-preminstrel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preminstrel@gmail.com">
 </a>
  <a>
+  <a href="https://www.zhihu.com/people/preminstrel" target="_blank">
+    <img src="https://img.shields.io/badge/知乎-preminstrel-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu">
+  </a>
   <a href="https://github.com/preminstrel">
  <img src="https://img.shields.io/badge/-SW825143601640-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=FFFFFF">
 </a>
