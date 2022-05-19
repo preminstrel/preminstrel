@@ -27,12 +27,6 @@
 
 🌱 Currently I'm a 2019 undergraduate majoring in **Electronic Science and Technology** at ***[Southeast University](https://www.seu.edu.cn/), 🇨🇳***. 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=preminstrel&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preminstrel&layout=compact&bg_color=22272E&text_color=CDD9E5&langs_count=10&hide_border=true" width="330px"/>
-
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
 <img alt="C++" src="https://img.shields.io/badge/-C++-525288?style=flat-square&logo=c%2B%2B&logoColor=white" />
