@@ -10,6 +10,9 @@
   <a href="https://www.zhihu.com/people/preminstrel" target="_blank">
     <img src="https://img.shields.io/badge/知乎-preminstrel-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu">
   </a>
+    <a href="https://www.linkedin.com/in/hanshi-sun-5b74b8228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hanshi Sun-0079FF.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Zhihu">
+  </a>
   <a href="https://github.com/preminstrel">
  <img src="https://img.shields.io/badge/-SW825143601640-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=FFFFFF">
 </a>
