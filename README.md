@@ -52,5 +52,5 @@
 
 
 <strong>Useful Links 📫</strong>
-* [Site](https://preminstrel.github.io)
+* [Page](https://preminstrel.github.io)
 * [Blog](https://preminstrel.github.io/blog/) 
