@@ -22,7 +22,7 @@
   </a>
 </p>
 
-🌱 Currently I'm a 2019 undergraduate majoring in **Electronic Science and Technology** at ***[Southeast University](https://www.seu.edu.cn/), 🇨🇳***. 
+🌱 Currently I'm a M.S. majoring in ECE at [Carnegie Mellon University](https://www.cmu.edu/), PA. Before I got my B.S. at [Southeast University](https://www.seu.edu.cn/), China. 
 
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
