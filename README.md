@@ -33,6 +33,3 @@
  <img src="https://github.com/preminstrel/preminstrel/blob/main/github-metrics.svg" alt="Metrics"/>
 </details>
 
-<strong>Useful Links 📫</strong>
-* [Page](https://preminstrel.github.io)
-* [Blog](https://preminstrel.github.io/blog/) 
