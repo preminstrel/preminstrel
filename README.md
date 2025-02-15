@@ -1,7 +1,11 @@
 <img src="https://github.com/preminstrel/preminstrel/blob/main/images/preminstrel.png">
 <p align="center">
+ <a href="https://preminstrel.github.io">[Page]</a> / <a href="https://blog.preminstrel.com">[Blog]</a>
+</p>
+
+<p align="center">
 <a href="https://github.com/preminstrel">
-<img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
+ <img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
 </a>
  <a href="mailto:preminstrel@gmail.com">
  <img src="https://img.shields.io/badge/-preminstrel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preminstrel@gmail.com">
@@ -28,11 +32,6 @@
 <details><summary>More GitHub Info</summary>
  <img src="https://github.com/preminstrel/preminstrel/blob/main/github-metrics.svg" alt="Metrics"/>
 </details>
-
-<strong>My Weekly Coding Activity</strong>
-
-<img src="https://github.com/preminstrel/preminstrel/blob/main/images/stat.svg" alt="Preminstrel WakaTime Activity"/>
-
 
 <strong>Useful Links 📫</strong>
 * [Page](https://preminstrel.github.io)
