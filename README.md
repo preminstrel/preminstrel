@@ -26,7 +26,7 @@
   </a>
 </p>
 
-🌱 Currently I'm a M.S. majoring in ECE at [Carnegie Mellon University](https://www.cmu.edu/), PA. Before, I got my B.S. at [Southeast University](https://www.seu.edu.cn/), China. 
+🌱 I am currently a Research Scientist at [ByteDance Seed](https://team.doubao.com/en/) (Seattle), where I work on Machine Learning Systems. Previously, I earned my M.S. in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.cmu.edu/), and my bachelor's degree from [Southeast University](https://www.seu.edu.cn/).
 
 
 <details><summary>More GitHub Info</summary>
