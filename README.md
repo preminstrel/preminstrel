@@ -28,8 +28,3 @@
 
 🌱 I am currently a Research Scientist at [ByteDance Seed](https://team.doubao.com/en/) (Seattle), where I work on Machine Learning Systems. Previously, I earned my M.S. in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.cmu.edu/), and my bachelor's degree from [Southeast University](https://www.seu.edu.cn/).
 
-
-<details><summary>More GitHub Info</summary>
- <img src="https://github.com/preminstrel/preminstrel/blob/main/github-metrics.svg" alt="Metrics"/>
-</details>
-
